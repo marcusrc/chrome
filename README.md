@@ -2,6 +2,7 @@
  - A testing branch for [RandR](https://en.wikipedia.org/wiki/RandR) (i.e. "Resize desktop to fit" in CRD client) is available; Use Docker image tag **:randr**.
 
 Google Chrome via VNC
+==
 `docker run -p 127.0.0.1:5900:5900 siomiz/chrome`
 
  - Google Chrome, not Chromium, for the ease of Flash plugin management
